@@ -1,24 +1,3 @@
-/*
-Jeffrey Carballo
-10/31/2016
-Lab 4
-displays and calculate the amount of food each monkey has eaten using arrays
-*/
-
-/*PsuedoCode!
-1. Include iomanip, string, and fstream
-2. Declare each function, const int, ifstream, and other misc data-types as global variables
-3. In main declare each arrays with "NONE" or 0 
-4. Create the function to call the data from a file(optional)
-5. Make sure each file you're calling exist and then call the function in main
-6. Call the function to display a chart of data from the array
-7. Make sure to present the chart as nice as possible
-8. Create and call a function that calculate the average food intake for each row(Use a for-loop)
-9. Create and call a function to determine which monkey has eaten the less food
-10. Create and call a function to determine which monkey has eaten the most food
-*/
-
-
 #include <iostream>
 #include <iomanip>
 #include <string>
